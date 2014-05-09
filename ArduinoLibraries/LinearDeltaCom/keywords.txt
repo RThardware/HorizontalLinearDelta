@@ -1,0 +1,27 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LinearDeltaCom	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+handleRxByte	KEYWORD2
+handleRxBytes	KEYWORD2
+registerMoveCallback	KEYWORD2
+registerXMoveCallback	KEYWORD2
+registerYMoveCallback	KEYWORD2  
+registerZMoveCallback	KEYWORD2    
+registerSmoothMoveCallback	KEYWORD2    
+registerSetSpeedCallback	KEYWORD2  
+registerSetSmoothSpeedCallback	KEYWORD2
+registerHomeCallback	KEYWORD2
+registerRequestPositionCallback	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
